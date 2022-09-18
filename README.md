@@ -37,11 +37,11 @@ Data:
 url: https://chatcolab.firebaseio.com/crud/[AppclientId]/clientes.json
 
 ### R -> Read One Record -> Get
-url: https://chatcolab.firebaseio.com/crud/01010097/clientes/[ClientId].json
+url: https://chatcolab.firebaseio.com/crud/[AppclientId]/clientes/[ClientId].json
 
 
 ### U -> Update -> Put
-url: https://chatcolab.firebaseio.com/crud/01010097/clientes/[ClientId].json
+url: https://chatcolab.firebaseio.com/crud/[AppclientId]/clientes/[ClientId].json
 
 Data:
 {
@@ -53,4 +53,4 @@ Data:
 }
 
 ### D -> Delete -> Delete
-url: https://chatcolab.firebaseio.com/crud/01010097/clientes/[ClientId].json
+url: https://chatcolab.firebaseio.com/crud/[AppclientId]/clientes/[ClientId].json
